@@ -1,0 +1,12 @@
+ASTEROI3DS:
+
+  A 3D Asteroids like Game where one scores points by shooting Asteroids. Aim with the mouse and Accelerate with A.  Shoot by clicking or hitting the space bar.  Bullets retain the momentum of the shooter, but are uneffected by gravity of the asteroids.
+
+Created by Channing Conger for GAME2150 at Northeastern University on Feb 16th 2010.
+
+Helpful code that I referenced during development:
+  The Tut-Asteroids example that ships with the Panda3D release.
+
+  The Tut-Bump-Map example for the model for the asteroids and bullets as well as point light and shader information.
+
+Requires Panda3D Version 1.7 and Python Version 2.6

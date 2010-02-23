@@ -1,11 +1,13 @@
 ##############################################################################
 ##
-##  ASTEROIDS 3D
+##  ASTEROI3DS
 ##
 ##  Channing Conger
-##    For GAME2150
+##    For GAME2150 at Northeastern University
 ##
-##  2-16-2010: Panda3d V. 1.7
+##  For Use with Panda3d Version 1.7
+##
+##  2-16-2010
 ##
 ##############################################################################
 
@@ -34,6 +36,7 @@ game = ShowBase()
 DEBUG_CONTROLS        = False
 DEBUG_DISPLAY_TEXT    = False
 
+##  Game Settings=============================================================
 INVERTED_MOUSE        = 1    # Set to -1 for no inverted mouse
 ROTATION_RATE         = 0.1  # Sensitivity to mouse movement
 MOUSE_OFFSET          = 200  # Approximating the center of the screen
